@@ -1,4 +1,3 @@
-
 # Personal Finance Tracker
 
 ---
@@ -41,11 +40,9 @@ The Personal Finance Tracker is a web-based application designed to empower user
 - Transaction Dashboard ![Dashboard](placeholder_dashboard.png)
 
 ---
-
+<!-- 
 ## Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/jsunecha/personal-finance-tracker.git
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).# personal-finance-tracker
+   git clone https://github.com/jsunecha/personal-finance-tracker.git -->
