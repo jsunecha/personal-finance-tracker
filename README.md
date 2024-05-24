@@ -31,13 +31,11 @@ The Personal Finance Tracker is a web-based application designed to empower user
 - Homepage 
   ![Homepage - add transaction](screenshots/HomePage.jpg)
 - Homepage - transactions table 
-  ![Homepage - transactions table](screenshots/HomePage2.jpg)
+  ![Homepage - transactions table](screenshots/Homepage2.jpg)
 - Homepage - spending categories pie chart
   ![Homepage - spending categories pie chart](screenshots/HomePage3.jpg)
 - Login Page ![LoginPage](screenshots/LoginPage.jpg)
 - Signup Page ![SignupPage](screenshots/SignupPage.jpg)
-
-- Transaction Dashboard ![Dashboard](placeholder_dashboard.png)
 
 ---
 <!-- 
